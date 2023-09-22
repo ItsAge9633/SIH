@@ -1,0 +1,30 @@
+Network tunneling 
+It insures that connection between two devices is encrypted.
+basically the data will be send encapsulated and encrypted to the end device.
+
+types of tunneling / protocol
+
+Virtual private network (VPN) tunnel. 
+Secure Shell (SSH) tunnel. 
+Point-to-Point Tunneling Protocol (PPTP) 
+Layer 2 Tunneling Protocol (L2TP) 
+Internet Protocol Security (IPsec) 
+Secure Sockets Layer (SSL) and Transport Layer Security (TLS) 
+Split tunneling 
+
+
+wht is actully working 
+So, when L2TP is used in conjunction with IPsec, it means that L2TP is responsible for establishing the tunnel,
+while IPsec is responsible for adding the necessary security measures to protect the data being transmitted through
+that tunnel.This combination is often referred to as "L2TP/IPsec."
+
+
+
+Local VPN tunelling 
+
+LVT means creating local host server ( within the phone) , and bypass all the trafic through the created local server like VPN 
+and through that we can emmbed many stratigies to avoid suspicious URLs or IP or any other stuffs  
+
+VPN tunneling refers to the process of creating a secure, encrypted communication channel, or "tunnel," over an existing network connection, typically the internet. 
+This tunnel is established between a client device (such as your computer or smartphone) and a VPN server. The purpose of VPN tunneling is to ensure the privacy, 
+security, and anonymity of your internet traffic as it travels between your device and the VPN server.
